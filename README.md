@@ -2,16 +2,16 @@
 
 ![](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
-## Sobre mí
+## About Me
 
-- Estudiante de Ciencias Computacionales en la _**Universidad Autónoma del Estado de Hidalgo (UAEH)**_.
-- Técnico en Electrónica egresado del _**Centro de Bachillerato Tecnológico Industrial y de Servicios (CBTis) No 286**_.
-- Interesado en el desarrollo de Videojuegos y la programación con C# y Unity.
-- Actualmente fortaleciendo mis conocimientos en:
-  - Programación Dinámica.
-  - Algoritmos
-  - Desarrollo de Software
-- Me gusta aprender nuevas tecnologías y construir proyectos para poner en práctica mis conocimientos y sobre todo, trabajar en equipo y hacerlo con pasión.
+- Computer Science student at the Universidad Autónoma del Estado de Hidalgo (UAEH).
+- Electronics Technician graduate from the Centro de Bachillerato Tecnológico Industrial y de Servicios (CBTis) No. 286.
+- Interested in video game development and programming with C# and Unity.
+- Currently strengthening my knowledge in:
+  - Dynamic Programming
+  - Algorithms
+  - Software Development
+- I enjoy learning new technologies and building projects to put my knowledge into practice. Above all, I value teamwork and approach every project with passion.
 
 ![Porshce](https://aleen42.github.io/badges/src/porsche.svg)
 ![Tesla](https://aleen42.github.io/badges/src/tesla.svg)
@@ -21,21 +21,21 @@
 
 [CV_Alejandro_Mendoza_GameDev.pdf](https://github.com/user-attachments/files/29150271/CV_Alejandro_Mendoza_GameDev.pdf)
 
-## Plataformas de Práctica
+## Practice Platforms
 
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 
-## Lenguajes
+## Languages
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 
-## Herramientas y Tecnologías
+## Tools and Technologies
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
@@ -46,7 +46,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## IDEs que utiizo
+## IDEs I use
 
 ![ArduinoUnoIDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Clion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
@@ -54,7 +54,7 @@
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## Contacto
+## Contact
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
@@ -64,7 +64,6 @@
 - YouTube: https://www.youtube.com/@TWSCraft999
 - Correo: menmora9@gmail.com
 
+## Portfolio
 
-## Portafolio
-
-Próximamente...
+Soon...
