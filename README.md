@@ -20,7 +20,8 @@
 ## CV
 
 - English: [CV_Alejandro_Mendoza_GameDev[ENG].pdf](https://github.com/user-attachments/files/29150732/CV_Alejandro_Mendoza_GameDev.ENG.pdf)
-- Spanish: [CV_Alejandro_Mendoza_GameDev.pdf](https://github.com/user-attachments/files/29150271/CV_Alejandro_Mendoza_GameDev.pdf)
+- Spanish: [CV_Alejandro_Mendoza_GameDev[ESP].pdf](https://github.com/user-attachments/files/29150754/CV_Alejandro_Mendoza_GameDev.ESP.pdf)
+
 
 ## Practice Platforms
 
