@@ -11,21 +11,43 @@
   - Desarrollo de Software
 - Me gusta aprender nuevas tecnologías y construir proyectos para poner en práctica mis conocimientos.
 
+
+## Sistema Operativo
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
+## Plataformas de Práctica
+
+![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+
 ## Lenguajes
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
-[![C++](https://isocpp.org)](https://img.shields.io/badge/C%2B%2B)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 
-## Herramientas
+## Herramientas y Tecnologías
 
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![Office365](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
 
 ## Contacto
+![]()
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 - LinkedIn: https://www.linkedin.com/in/alemendmor9/
+- YouTube: 
+
 - Correo: menmora9@gmail.com
 - Portafolio: Próximamente...
