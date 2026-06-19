@@ -17,6 +17,10 @@
 ![Tesla](https://aleen42.github.io/badges/src/tesla.svg)
 ![koenigsegg](https://aleen42.github.io/badges/src/koenigsegg.svg)
 
+## CV
+
+[CV_Alejandro_Mendoza_GameDev.pdf](https://github.com/user-attachments/files/29150271/CV_Alejandro_Mendoza_GameDev.pdf)
+
 ## Plataformas de Práctica
 
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
