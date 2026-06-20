@@ -38,13 +38,6 @@
 - English: [CV_Alejandro_Mendoza_GameDev[ENG].pdf](https://github.com/user-attachments/files/29150732/CV_Alejandro_Mendoza_GameDev.ENG.pdf)
 - Spanish: [CV_Alejandro_Mendoza_GameDev[ESP].pdf](https://github.com/user-attachments/files/29150754/CV_Alejandro_Mendoza_GameDev.ESP.pdf)
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> _**Practice Platforms**_</b>
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/twscraft)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/twscraft)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/twscraft)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/twscraft/)
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> _**Languages**_</b>
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
