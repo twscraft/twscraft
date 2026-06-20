@@ -2,16 +2,20 @@
 
 ![](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
-## _**About Me**_
+> [!Note]
+> Powered by the best: [AI.Eng.]xSaidanMka[AAAI] from ESCOM & CINVESTAV by I.P.N
 
-- Computer Science student at the _**Universidad Autónoma del Estado de Hidalgo (UAEH)**_.
-- Electronics Technician graduate from the _**Centro de Bachillerato Tecnológico Industrial y de Servicios (CBTis) No. 286**_.
-- Interested in video game development and programming with C# and Unity.
-- Currently strengthening my knowledge in:
-  - Dynamic Programming
-  - Algorithms
-  - Software Development
-- I enjoy learning new technologies and building projects to put my knowledge into practice. Above all, I value teamwork and approach every project with passion.
+
+> [!IMPORTANT]
+> ## _**About Me**_
+> - Computer Science student at the _**Universidad Autónoma del Estado de Hidalgo (UAEH)**_.
+> - Electronics Technician graduate from the _**Centro de Bachillerato Tecnológico Industrial y de Servicios (CBTis) No. 286**_.
+> - Interested in video game development and programming with C# and Unity.
+> - Currently strengthening my knowledge in:
+>   - Dynamic Programming
+>   - Algorithms
+>   - Software Development
+> - I enjoy learning new technologies and building projects to put my knowledge into practice. Above all, I value teamwork and approach every project with passion.
 
 ![Porshce](https://aleen42.github.io/badges/src/porsche.svg)
 ![Tesla](https://aleen42.github.io/badges/src/tesla.svg)
