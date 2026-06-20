@@ -15,7 +15,8 @@
 ![](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
 > [!Note]
-> Powered by the best: [AI.Eng.]xSaidanMka[AAAI] from ESCOM & CINVESTAV by I.P.N
+> Powered by the best: xSaidanMka from ESCOM & CINVESTAV by I.P.N: [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Saidan1314)
+
 
 > [!IMPORTANT]
 > ## _**About Me**_
