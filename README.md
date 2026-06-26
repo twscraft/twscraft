@@ -37,7 +37,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> _**CV**_</b>
 
 - English: [CV_Alejandro_Mendoza_GameDev[ENG].pdf](https://github.com/user-attachments/files/29150732/CV_Alejandro_Mendoza_GameDev.ENG.pdf)
-- Spanish: [CV_Alejandro_Mendoza_GameDev[ESP].pdf](https://github.com/user-attachments/files/29150754/CV_Alejandro_Mendoza_GameDev.ESP.pdf)
+- Español: [CV_Alejandro_Mendoza_GameDev[ESP].pdf](https://github.com/user-attachments/files/29150754/CV_Alejandro_Mendoza_GameDev.ESP.pdf)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> _**Languages**_</b>
 
