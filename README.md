@@ -57,7 +57,7 @@
 
 | **CV — English** | **CV — Español** | **Game Dev Portfolio** |
 |:---:|:---:|:---:|
-| [![Download English CV](https://img.shields.io/badge/DOWNLOAD-CV%20ENGLISH-1793BA?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/30869257/CV_Alejandro_Mendoza_GameDev.ENG.pdf) | [![Descargar CV Español](https://img.shields.io/badge/DESCARGAR-CV%20ESPAÑOL-FF6A00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/30869258/CV_Alejandro_Mendoza_GameDev.ESP.pdf) | [![Open Astral Peak Portfolio](https://img.shields.io/badge/OPEN-ASTRAL%20PEAK-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://astral-peak-portfolio.vercel.app/#inicio) |
+| [![Download English CV](https://img.shields.io/badge/DOWNLOAD-CV%20ENGLISH-1793BA?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/30869257/CV_Alejandro_Mendoza_GameDev.ENG.pdf) | [![Descargar CV Español](https://img.shields.io/badge/DESCARGAR-CV%20ESPAÑOL-FF6A00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/30869258/CV_Alejandro_Mendoza_GameDev.ESP.pdf) | [![Open Astral Peak Portfolio](https://img.shields.io/badge/OPEN-ASTRAL%20PEAK-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://astral-peak.vercel.app) |
 | *English Version* | *Versión en Español* | *Video Game Development Portfolio* |
 
 
