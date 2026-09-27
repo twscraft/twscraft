@@ -110,7 +110,7 @@
 
 
 <h3 align="center">
-  "Si lo puedes imaginar, lo puedes programar..."
+  "¿Es todo lo que puedes imaginar?"
 </h3>
 
 
