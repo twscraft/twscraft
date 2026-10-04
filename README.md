@@ -41,9 +41,6 @@
 > - I enjoy learning new technologies and building projects to put my knowledge into practice.
 > - Above all, I value teamwork and approach every project with passion.
 
-
-<br>
-
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> _**CV & Portfolio**_</b>
