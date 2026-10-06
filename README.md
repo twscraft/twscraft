@@ -23,7 +23,7 @@
 
 ## About me
 
-I'm a Computer Science student at the **Universidad Autónoma del Estado de Hidalgo (UAEH)** and an Electronics Technician (CBTis No. 286). I build games with **Unity and C#**, and I train in competitive programming to keep my algorithms sharp.
+I´m a Computer Science student at the Universidad Autónoma del Estado de Hidalgo (UAEH) and an Electronics Technician certified by CBTis No. 286. I develop video games using Unity and C#, and I practice competitive programming to sharpen my logic and because I love solving problems.
 
 -  **Focus:** video game development and gameplay programming with C# and Unity.
 -  **Currently strengthening:** Dynamic Programming, Algorithms and Software Development.
