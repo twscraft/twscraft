@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Ajusta el alt para describir lo que realmente muestra tu banner -->
 <img width="100%" alt="twscraft banner: game development with Unity and C#" src="https://github.com/user-attachments/assets/bf518f06-40dd-4c77-82c2-db53f99041a8" />
 
 <a href="https://github.com/twscraft">
