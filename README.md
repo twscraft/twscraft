@@ -97,7 +97,7 @@ A game built with **Unity and C#** under the **Astral Peak** name.
 
 <div align="center">
 
-<img width="100%" alt="Is that all you can imagine?" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1F44,100:C2410C&height=80&text=¿Es%20todo%20lo%20que%20puedes%20imaginar?&fontColor=ffffff&fontSize=24&fontWeight=bold" />
+<img width="100%" alt="Is that all you can imagine?" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1F44,100:C2410C&height=80&text=Is%20that%20all%20you%20can%20imagine?&fontColor=ffffff&fontSize=24&fontWeight=bold" />
 
 <br>
 
