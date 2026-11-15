@@ -1,6 +1,12 @@
 <div align="center">
 
+<!--
+  Inicio imagen banner
+-->
 <img width="1584" height="396" alt="Github_Banner" src="https://github.com/user-attachments/assets/33921eec-9aac-421f-9dea-4b074d08f239" />
+<!--
+  Fin imagen banner
+-->
 
 <a href="https://github.com/twscraft">
   <img alt="Hi, I'm twscraft. Computer Science student, competitive programmer, game developer with Unity and C#." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=1793BA&center=true&vCenter=true&repeat=false&width=560&height=60&lines=Hi%2C+I%27m+twscraft;Computer+Science+Student;Competitive+Programmer;Game+Developer+%C2%B7+Unity+%26+C%23" />
@@ -100,6 +106,8 @@ A game built with **Unity and C#** under the **Astral Peak** name.
 <a href="https://twscraft.itch.io/"><img alt="Play my games on itch.io" src="https://img.shields.io/badge/-Play%20on%20itch.io-C2410C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
 
 ---
+
+<img width="1584" height="396" alt="Github_Banner_Part2" src="https://github.com/user-attachments/assets/812a6617-0b79-409b-a3a2-c6d2fbda949a" />
 
 <div align="center">
 <sub>Powered by the best: <a href="https://github.com/Saidan1314">xSaidanMka</a> · ESCOM &amp; CINVESTAV, IPN</sub>
