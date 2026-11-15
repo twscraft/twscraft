@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="twscraft banner: game development with Unity and C#" src="https://github.com/user-attachments/assets/bf518f06-40dd-4c77-82c2-db53f99041a8" />
+<img width="1584" height="396" alt="Github_Banner" src="https://github.com/user-attachments/assets/33921eec-9aac-421f-9dea-4b074d08f239" />
 
 <a href="https://github.com/twscraft">
   <img alt="Hi, I'm twscraft. Computer Science student, competitive programmer, game developer with Unity and C#." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=1793BA&center=true&vCenter=true&repeat=false&width=560&height=60&lines=Hi%2C+I%27m+twscraft;Computer+Science+Student;Competitive+Programmer;Game+Developer+%C2%B7+Unity+%26+C%23" />
