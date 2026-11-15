@@ -76,6 +76,22 @@ A game built with **Unity and C#** under the **Astral Peak** name.
 <a href="https://codeforces.com/profile/twscraft"><img alt="Codeforces profile: twscraft" src="https://img.shields.io/badge/Codeforces-twscraft-0F6E94?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 <a href="https://icpc.global/ICPCID/P52O1BHAX1LO"><img alt="ICPC public profile" src="https://img.shields.io/badge/ICPC-Public%20profile-FFB000?style=for-the-badge" /></a>
 
+<!--
+  Inicio Codeforces
+-->
+<div align="center">
+  <a href="https://codeforces.com/profile/twscraft">
+    <img
+      src="https://raw.githubusercontent.com/twscraft/Codeforces-stats-card/main/assets/codeforces-stats.svg?v=2"
+      alt="Codeforces Statistics - twscraft"
+      width="800"
+    />
+  </a>
+</div>
+<!--
+  Fin Codeforces
+-->
+
 ## GitHub stats
 
 <div align="center">
