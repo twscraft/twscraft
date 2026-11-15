@@ -79,7 +79,7 @@ A game built with **Unity and C#** under the **Astral Peak** name.
 <!--
   Inicio Codeforces
 -->
-<div align="center">
+<div align="left">
   <a href="https://codeforces.com/profile/twscraft">
     <img
       src="https://raw.githubusercontent.com/twscraft/Codeforces-stats-card/main/assets/codeforces-stats.svg?v=2"
@@ -92,16 +92,6 @@ A game built with **Unity and C#** under the **Astral Peak** name.
   Fin Codeforces
 -->
 
-## GitHub stats
-
-<div align="center">
-  <img align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="96" alt="" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/twscraft">
-    <img align="middle" src="https://mis-stats-github-theta.vercel.app/api/top-langs/?username=twscraft&layout=compact&bg_color=0A1F44&title_color=FF8C00&text_color=E6EDF3&border_color=1793BA" width="450" alt="Most used languages on GitHub by twscraft" />
-  </a>
-</div>
-
 ## Let's connect
 
 <a href="https://www.linkedin.com/in/alemendmor9/"><img alt="Connect with me on LinkedIn" src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -109,17 +99,18 @@ A game built with **Unity and C#** under the **Astral Peak** name.
 <a href="https://www.youtube.com/@TWSCraft999"><img alt="Watch my videos on YouTube" src="https://img.shields.io/badge/-Watch%20on%20YouTube-CC0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://twscraft.itch.io/"><img alt="Play my games on itch.io" src="https://img.shields.io/badge/-Play%20on%20itch.io-C2410C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
 
-<br>
+---
 
 <div align="center">
-
-<img width="100%" alt="Is that all you can imagine?" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1F44,100:C2410C&height=80&text=Is%20that%20all%20you%20can%20imagine?&fontColor=ffffff&fontSize=24&fontWeight=bold" />
-
-<br>
-
-<img alt="Profile views counter" src="https://komarev.com/ghpvc/?username=twscraft&label=Profile+views&color=0F6E94&style=flat" />
-<img alt="Built with love" src="https://forthebadge.com/images/badges/built-with-love.svg" />
-
 <sub>Powered by the best: <a href="https://github.com/Saidan1314">xSaidanMka</a> · ESCOM &amp; CINVESTAV, IPN</sub>
 
+---
+
 </div>
+
+<h3 align="center">
+  Is that all you can imagine?
+</h3>
+<br>
+
+![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
